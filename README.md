@@ -40,3 +40,5 @@ Visit [Heroku status site](https://status.heroku.com) for more details
   
 <a href="https://bit.ly/Raganork"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
 -->
+
+https://heroku.com/deploy?template=https://github.com/vishnukl29/botmd
